@@ -1,8 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
-//
-// An example how to run whisper in onnxruntime-web.
-//
 
 const ort = require('onnxruntime-web');
 

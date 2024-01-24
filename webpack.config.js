@@ -1,6 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license
-
 const path = require('path');
 const CopyPlugin = require("copy-webpack-plugin");
 
